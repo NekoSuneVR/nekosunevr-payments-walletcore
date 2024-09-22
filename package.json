@@ -1,0 +1,25 @@
+{
+    "name": "nekosunevr-payments-walletcore",
+    "version": "1.0.0",
+    "description": "Payment System Wrapper for Easy to use System.",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NekoSuneVR/nekosunevr-payments-walletcore-nodejs"
+    },
+    "keywords": [
+        "paymentsystem",
+        "multigateways"
+    ],
+    "author": "NekoSuneVR",
+    "license": "ISC",
+    "dependencies": {
+        "@jskitty/bitcoin-rpc": "^1.0.2",
+        "crypto-js": "^3.1.9-1",
+        "node-fetch": "^2.6.1"
+    },
+    "types": "lib/index.d.ts"
+}

@@ -1,2 +1,2 @@
-# nekosunevr-payments-walletcore
-Payment System Wrapper for Easy to use System to Wallet Core
+# nekosunevr-payments-nodejs
+NPM Package of my Payment System with Multi Gateways
