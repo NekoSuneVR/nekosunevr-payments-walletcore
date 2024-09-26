@@ -20,7 +20,8 @@ async function checkTransaction(address, amount, timestamp) {
     console.log(result);
 }
 
+const address = "" // Example Address HERE
 const amount = 10.15; // Example amount to check 10.15 ZNZ
 const timestamp = Math.floor(Date.now() / 1000); // Current Unix timestamp
 
-checkTransaction(amount, timestamp);
+checkTransaction(address, amount, timestamp);
